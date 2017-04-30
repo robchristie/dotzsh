@@ -1,2 +1,2 @@
 # dotzsh
-zsh configuration
+Rob's zsh configuration
